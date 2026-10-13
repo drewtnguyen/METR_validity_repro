@@ -1,0 +1,33 @@
+{
+  "github": {
+    "repo": "METR/eval-analysis-public",
+    "commit": "571a941b2336c417731001229281a5d2202c1e0e",
+    "commit_date": "2026-02-13",
+    "files": {
+      "th1_1_runs.jsonl": {
+        "path": "reports/time-horizon-1-1/data/raw/runs.jsonl",
+        "sha256": "eca115b05939d2ed83ae9c805af9598af786d58690d17e1685a9ab22ef15cc26",
+        "bytes": 13105640
+      },
+      "th1_0_runs.jsonl": {
+        "path": "reports/time-horizon-1-0/data/raw/runs.jsonl",
+        "sha256": "f489d11728909937dad99ba1ed2d7c40efe12a766891e67dbc7c2486a3311236",
+        "bytes": 24022538
+      },
+      "release_dates.yaml": {
+        "path": "data/external/release_dates.yaml",
+        "sha256": "770134f8cbeead60d996f605fb70131b0c9787dfacb315b732b8b03005278318",
+        "bytes": 2374
+      }
+    }
+  },
+  "live": {
+    "url": "https://metr.org/assets/task_results_1_1.yaml",
+    "file": "task_results_1_1.yaml",
+    "sha256": "4f85fbf03cbf8b43af102ff17db6bbb4963b3c98784e90f81fb71a146cf26b07",
+    "bytes": 686419,
+    "retrieved": "2026-10-06",
+    "etag": "\"541a84bc9e2e6b7fe741f525fa20f608-ssl\"",
+    "n_agents": 23
+  }
+}

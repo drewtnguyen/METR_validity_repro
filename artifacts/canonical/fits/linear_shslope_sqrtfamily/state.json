@@ -1,0 +1,50 @@
+{
+ "format_version": 1,
+ "fit": {
+  "kind": "linear",
+  "probit": false,
+  "shslope": true,
+  "params": {
+   "__array__": "fit.params"
+  },
+  "ll_by_model": {
+   "__array__": "fit.ll_by_model"
+  },
+  "logl": -9143.26935476218,
+  "n_params": 27,
+  "sqrtfamily": true,
+  "wll_by_model": {
+   "__array__": "fit.wll_by_model"
+  },
+  "wlogl": -1064.81795624928,
+  "cls": "basic",
+  "model_names": [
+   "Claude 3 Opus (Inspect)",
+   "Claude 3.5 Sonnet (New) (Inspect)",
+   "Claude 3.5 Sonnet (Old) (Inspect)",
+   "Claude 3.7 Sonnet (Inspect)",
+   "Claude 4 Opus (Inspect)",
+   "Claude 4.1 Opus (Inspect)",
+   "Claude Mythos Preview (early)",
+   "Claude Opus 4.5 (Inspect)",
+   "Claude Opus 4.6 (Inspect)",
+   "GPT-2",
+   "GPT-4 0314",
+   "GPT-4 1106 (Inspect)",
+   "GPT-4 Turbo (Inspect)",
+   "GPT-4o (Inspect)",
+   "GPT-5 (Inspect)",
+   "GPT-5.1-Codex-Max (Inspect)",
+   "GPT-5.2",
+   "GPT-5.3-Codex",
+   "GPT-5.4",
+   "Gemini 3 Pro",
+   "Gemini 3.1 Pro",
+   "davinci-002 (GPT-3)",
+   "gpt-3.5-turbo-instruct",
+   "o1 (Inspect)",
+   "o1-preview",
+   "o3 (Inspect)"
+  ]
+ }
+}

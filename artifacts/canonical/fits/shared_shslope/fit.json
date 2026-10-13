@@ -1,0 +1,33 @@
+{
+  "spec": "shared_shslope",
+  "config": {
+    "cls": "basic",
+    "kind": "shared",
+    "bb": false,
+    "probit": false,
+    "shslope": true
+  },
+  "logl": -8883.17498488277,
+  "k_raw": 31,
+  "k_eff": 31,
+  "aic": 17828.34996976554,
+  "align_c": 1.0,
+  "align_d": 0.0,
+  "phi": null,
+  "rho_global": null,
+  "classic_mean": null,
+  "classic_sigma": null,
+  "tau0": 0.0,
+  "tau_floor": null,
+  "min_ll_diff": null,
+  "ascent_ok": null,
+  "tau_min": null,
+  "tau_max": null,
+  "tau": null,
+  "iterations": null,
+  "converged": null,
+  "wall_s": 12.432031917036511,
+  "n_tasks": 228,
+  "n_models": 26,
+  "n_runs": 30211
+}

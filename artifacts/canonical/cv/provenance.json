@@ -1,0 +1,23 @@
+{
+  "mode": "cv",
+  "dataset": "canonical",
+  "specs": [
+    "linear",
+    "linear_shslope_sqrtfamily",
+    "linear_sqrtfamily",
+    "shared_shslope_sqrtfamily",
+    "s1_shslope_hetero_famspline_bb"
+  ],
+  "schemes": [
+    "task",
+    "family"
+  ],
+  "folds": 5,
+  "seed": 42,
+  "K": 1000,
+  "Kg": 80,
+  "em_max_iter": 300,
+  "em_accel": "squarem",
+  "ref": "linear",
+  "created": "2026-10-13"
+}

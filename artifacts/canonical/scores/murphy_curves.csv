@@ -1,0 +1,898 @@
+spec,model,target,q,mean_score,diff_est,diff_half95
+linear_shslope_sqrtfamily,baseline,equal_family,0.0033333333333333335,0.0016811643778611412,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.006666666666666667,0.0033113641498140633,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.01,0.004987256949101767,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.013333333333333334,0.006458478177864236,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.016666666666666666,0.007874827255242627,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.02,0.009227687044374318,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.023333333333333334,0.010525569222798003,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.02666666666666667,0.011738076528015702,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.030000000000000002,0.012943512508039882,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.03333333333333333,0.014014349087794566,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.03666666666666667,0.015245908452452474,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.04,0.016521517899188282,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.043333333333333335,0.017701464638144926,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.04666666666666667,0.019123901216234463,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.05,0.020652776779860813,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.05333333333333334,0.021794613849446306,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.05666666666666667,0.022819606150993755,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.060000000000000005,0.02422336394014489,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.06333333333333334,0.025198082671880333,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.06666666666666667,0.026113161380692255,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.07,0.027250676005619638,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.07333333333333333,0.028494454775625695,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.07666666666666667,0.029215660393633006,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.08,0.030569114085273113,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.08333333333333334,0.0318421550424223,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.08666666666666667,0.03318768540854139,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.09000000000000001,0.033999599921348815,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.09333333333333334,0.03492764735175785,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.09666666666666668,0.03603164533839543,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.1,0.037295608467951206,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.10333333333333335,0.03817585229692434,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.10666666666666667,0.039307130945513406,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.11,0.04020082083828667,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.11333333333333334,0.041169206460096,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.11666666666666667,0.04257158495230005,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.12000000000000001,0.043190671254183306,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.12333333333333334,0.0440276281935543,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.12666666666666668,0.0448382480543983,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.13,0.04537721302255414,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.13333333333333333,0.04639433889111058,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.1366666666666667,0.04720850412791015,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.14,0.04815132280178177,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.14333333333333334,0.04914071009290122,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.14666666666666667,0.04993440789512373,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.15000000000000002,0.05087437500438137,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.15333333333333335,0.051601536298944935,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.15666666666666668,0.05244205249049826,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.16,0.053515864133285775,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.16333333333333333,0.05375648606168755,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.16666666666666669,0.05469331298081314,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.17,0.05571440328737547,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.17333333333333334,0.05704175579634476,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.17666666666666667,0.057574147595850285,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.18000000000000002,0.05819423159844276,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.18333333333333335,0.05898973886064415,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.18666666666666668,0.05997075184887055,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.19,0.06110067062723017,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.19333333333333336,0.0627254850355496,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.19666666666666668,0.06422829965756294,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2,0.06475472745477616,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.20333333333333334,0.06501910340208014,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2066666666666667,0.06595187985059354,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.21000000000000002,0.06673881021699014,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.21333333333333335,0.06744808505516732,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.21666666666666667,0.06796805485641297,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.22,0.06858450883806622,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.22333333333333336,0.0694264778705689,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.22666666666666668,0.07052428706003945,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.23,0.07125552102717816,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.23333333333333334,0.07190320623256197,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2366666666666667,0.07291430704342797,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.24000000000000002,0.07374308810994962,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.24333333333333335,0.07510622879554106,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.24666666666666667,0.07588431306733233,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.25,0.07598317685004206,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.25333333333333335,0.0762315097976944,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2566666666666667,0.07704001214632392,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.26,0.07698548256714305,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.26333333333333336,0.07903263242769566,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.26666666666666666,0.07939497592405563,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.27,0.08025505898306465,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2733333333333334,0.0803931966505768,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.27666666666666667,0.08150296159708573,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.28,0.08204532485319266,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2833333333333333,0.08270983220836478,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2866666666666667,0.08276875049689358,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.29000000000000004,0.08304167350611472,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.29333333333333333,0.08352449248526325,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.2966666666666667,0.08356349283779752,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.30000000000000004,0.08416659233874772,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.30333333333333334,0.08499611578340485,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3066666666666667,0.08566403391513232,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.31,0.08635517807533093,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.31333333333333335,0.08652529767044526,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3166666666666667,0.08721202780288864,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.32,0.0875902672108959,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.32333333333333336,0.08816198284962037,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.32666666666666666,0.08897177291209984,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.33,0.08909866528538742,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.33333333333333337,0.08971651937832796,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.33666666666666667,0.08990620445327525,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.34,0.08990813862869611,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3433333333333334,0.09069254352180936,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3466666666666667,0.09054981803250758,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.35000000000000003,0.09096788359914507,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.35333333333333333,0.09126607244218177,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3566666666666667,0.09209661578951099,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.36000000000000004,0.09214066847623477,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.36333333333333334,0.09213221490824929,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3666666666666667,0.09261454683183602,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.37000000000000005,0.0930593269103703,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.37333333333333335,0.09300499576123317,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3766666666666667,0.09352780325086599,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.38,0.09338198613822606,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.38333333333333336,0.09358590960952559,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.3866666666666667,0.09444053098565358,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.39,0.0950512915514377,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.39333333333333337,0.09552183978319882,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.39666666666666667,0.09570697900623591,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4,0.09591252877132014,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4033333333333334,0.09663225240830176,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4066666666666667,0.09691866311000345,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.41000000000000003,0.09728819379805101,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4133333333333334,0.09708681548024899,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4166666666666667,0.09631492660253914,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.42000000000000004,0.09755862627805231,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.42333333333333334,0.09786524909175741,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4266666666666667,0.09810279327304791,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.43000000000000005,0.09853410924868719,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.43333333333333335,0.09862114771089085,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4366666666666667,0.09884748545139187,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.44,0.09870174604562225,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.44333333333333336,0.09929286897519385,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4466666666666667,0.09913017143261295,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.45,0.09892631977649402,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.45333333333333337,0.0983487660679423,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4566666666666667,0.09833898246361499,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.46,0.09831460453771719,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4633333333333334,0.09841915479818267,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4666666666666667,0.09853178657315513,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.47000000000000003,0.09837024908313734,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4733333333333334,0.0983067055070065,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4766666666666667,0.09866453576058938,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.48000000000000004,0.0972084295645159,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.48333333333333334,0.09722892596856977,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4866666666666667,0.09703826366605454,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.49000000000000005,0.09713450484189311,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.49333333333333335,0.0970185479817728,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.4966666666666667,0.09742999736345684,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5,0.09604403063733924,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5033333333333334,0.095731630809205,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5066666666666667,0.09604156587825491,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.51,0.0960845584212487,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5133333333333334,0.09663780341443724,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5166666666666667,0.09672526926442727,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.52,0.09685434298057276,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5233333333333333,0.09702744180158786,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5266666666666667,0.09706282462178706,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.53,0.09723021198783816,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5333333333333333,0.09677959383947668,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5366666666666667,0.09640924688809241,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.54,0.09622653427592918,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5433333333333333,0.09609001562288937,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5466666666666667,0.09590642742081304,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.55,0.09657780489588964,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5533333333333333,0.09594700810498397,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5566666666666668,0.0959794880185299,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.56,0.09555942532165229,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5633333333333334,0.09483024469488577,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5666666666666667,0.0949052330417085,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5700000000000001,0.0948201244214582,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5733333333333334,0.09476156241075999,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5766666666666667,0.09442243974499291,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5800000000000001,0.09399797828420958,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5833333333333334,0.09398975506158952,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5866666666666667,0.0933538754087953,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5900000000000001,0.09335215042320061,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5933333333333334,0.09289418342510894,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.5966666666666667,0.09189412358673406,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6000000000000001,0.09186071084954603,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6033333333333334,0.09081300976158918,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6066666666666667,0.09047858558622737,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.61,0.09000320114821633,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6133333333333334,0.08961266289916897,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6166666666666667,0.08914624250369134,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.62,0.0885639556141673,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6233333333333334,0.08800014353304723,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6266666666666667,0.08781378286084991,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.63,0.08735685657977067,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6333333333333334,0.0860586285420999,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6366666666666667,0.0859739556353721,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.64,0.08574177566217579,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6433333333333334,0.08553681668315566,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6466666666666667,0.085648774073504,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.65,0.08549116633092504,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6533333333333333,0.08493243017358013,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6566666666666667,0.0845857546775484,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.66,0.08256894484576473,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6633333333333333,0.08236385681783505,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6666666666666667,0.08173920025730247,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.67,0.08095429270357894,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6733333333333333,0.08030976261097773,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6766666666666667,0.07959831718972502,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.68,0.07918178252351946,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6833333333333333,0.07829152943093344,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6866666666666668,0.07780613052001782,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6900000000000001,0.07711725755695259,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6933333333333334,0.0768098295808922,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.6966666666666667,0.07527652854733016,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7000000000000001,0.07472717057481582,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7033333333333334,0.0742215068222349,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7066666666666667,0.07404975920451423,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7100000000000001,0.07380188313733704,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7133333333333334,0.07291993982318937,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7166666666666667,0.07234629019105684,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7200000000000001,0.07214824157299901,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7233333333333334,0.07155840462845568,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7266666666666667,0.07133544124512116,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7300000000000001,0.07087190571720185,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7333333333333334,0.0706896066165982,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7366666666666667,0.06989125785575402,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7400000000000001,0.06957924101148034,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7433333333333334,0.06873748949453991,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7466666666666667,0.06793040495509366,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.75,0.0675348976292178,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7533333333333334,0.06736503024023283,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7566666666666667,0.06552561547989096,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.76,0.06484143823198561,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7633333333333334,0.06409871995832181,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7666666666666667,0.0633292483193261,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.77,0.06245758382020417,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7733333333333334,0.061970248481834155,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7766666666666667,0.06100299065606723,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.78,0.05979471525883423,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7833333333333334,0.05917099673123549,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7866666666666667,0.05864590348584452,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.79,0.05813903805201996,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7933333333333333,0.05720981635162195,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.7966666666666667,0.056741314522119515,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8,0.056237131362941534,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8033333333333333,0.05576782887515095,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8066666666666668,0.055293501805624465,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.81,0.054717424527607715,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8133333333333334,0.054296067178766706,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8166666666666668,0.053884894980420324,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8200000000000001,0.053053217604159854,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8233333333333334,0.05250428847012837,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8266666666666668,0.05163962452744313,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8300000000000001,0.05042028422693441,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8333333333333334,0.049938831714929764,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8366666666666667,0.049424928258856055,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8400000000000001,0.04885837146006867,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8433333333333334,0.047975722539786575,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8466666666666667,0.04763737971796742,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8500000000000001,0.04703310733465091,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8533333333333334,0.04616394888209481,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8566666666666667,0.04558044574128897,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8600000000000001,0.04390391429436797,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8633333333333334,0.0427792237370797,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8666666666666667,0.04205811491146122,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8700000000000001,0.0414248842303692,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8733333333333334,0.04085186249750083,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8766666666666667,0.04043271355016011,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.88,0.039647671397036365,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8833333333333334,0.0390888686338026,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8866666666666667,0.03842802009844706,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.89,0.03762787228479408,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8933333333333334,0.03685320538647249,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.8966666666666667,0.036075700799763834,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9,0.03529600931970644,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9033333333333334,0.03458142925881237,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9066666666666667,0.0336933311442534,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.91,0.03303729488436317,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9133333333333334,0.03222118247174006,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9166666666666667,0.031392764621162424,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.92,0.030729620957888913,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9233333333333333,0.02990809126631062,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9266666666666667,0.029153753040297797,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.93,0.02836920696228325,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9333333333333333,0.027544570383517326,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9366666666666668,0.026714437431303258,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9400000000000001,0.02536208794611999,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9433333333333334,0.02428625558350683,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9466666666666668,0.022980399783946514,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9500000000000001,0.021702143799554874,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9533333333333334,0.020929287748834895,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9566666666666668,0.019591178047626497,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9600000000000001,0.018002527520477363,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9633333333333334,0.016724901516783915,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9666666666666667,0.015557444428399668,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9700000000000001,0.0142959717403612,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9733333333333334,0.012596828981817654,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9766666666666667,0.010894902652171634,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9800000000000001,0.00955296727522568,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9833333333333334,0.007938992634108317,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9866666666666667,0.00613918478801272,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9900000000000001,0.004645228408009825,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9933333333333334,0.0032599312098368907,,
+linear_shslope_sqrtfamily,baseline,equal_family,0.9966666666666667,0.0016158520946077148,,
+shared_shslope_sqrtfamily,Model 1,equal_family,0.0033333333333333335,0.0016678015714220173,-1.33628064391243e-05,7.85138907932839e-06
+shared_shslope_sqrtfamily,Model 1,equal_family,0.006666666666666667,0.003300360301936362,-1.1003847877700486e-05,2.4434953090519444e-05
+shared_shslope_sqrtfamily,Model 1,equal_family,0.01,0.004877036691753264,-0.0001102202573485028,0.0002337212203986085
+shared_shslope_sqrtfamily,Model 1,equal_family,0.013333333333333334,0.006356687728316113,-0.00010179044954812067,0.00028516289684950324
+shared_shslope_sqrtfamily,Model 1,equal_family,0.016666666666666666,0.007724651790354339,-0.00015017546488828944,0.0002526758017935956
+shared_shslope_sqrtfamily,Model 1,equal_family,0.02,0.008917761518083728,-0.0003099255262905931,0.0001404723429231287
+shared_shslope_sqrtfamily,Model 1,equal_family,0.023333333333333334,0.01018244482381208,-0.0003431243989859254,0.0002467501211109337
+shared_shslope_sqrtfamily,Model 1,equal_family,0.02666666666666667,0.011688122111420845,-4.995441659485719e-05,0.00031225549519564344
+shared_shslope_sqrtfamily,Model 1,equal_family,0.030000000000000002,0.012820899392507804,-0.00012261311553207703,0.0003100733114690218
+shared_shslope_sqrtfamily,Model 1,equal_family,0.03333333333333333,0.013934130620479325,-8.021846731524147e-05,0.0002815555081445094
+shared_shslope_sqrtfamily,Model 1,equal_family,0.03666666666666667,0.014952180645742764,-0.00029372780670971067,0.00015274175049851885
+shared_shslope_sqrtfamily,Model 1,equal_family,0.04,0.016604535895266857,8.301799607857824e-05,0.0006214786073524028
+shared_shslope_sqrtfamily,Model 1,equal_family,0.043333333333333335,0.018189472802916794,0.00048800816477186787,0.0009204395311003897
+shared_shslope_sqrtfamily,Model 1,equal_family,0.04666666666666667,0.019722219833829244,0.0005983186175947781,0.0009765117599512381
+shared_shslope_sqrtfamily,Model 1,equal_family,0.05,0.02070771623094504,5.4939451084218843e-05,0.0008420264171114994
+shared_shslope_sqrtfamily,Model 1,equal_family,0.05333333333333334,0.021526958779142406,-0.00026765507030390316,0.0008136560257491194
+shared_shslope_sqrtfamily,Model 1,equal_family,0.05666666666666667,0.022907669543148407,8.806339215465895e-05,0.0009845347801746905
+shared_shslope_sqrtfamily,Model 1,equal_family,0.060000000000000005,0.024136058189975246,-8.7305750169637e-05,0.0007839645627838965
+shared_shslope_sqrtfamily,Model 1,equal_family,0.06333333333333334,0.025180747795510567,-1.73348763697571e-05,0.0009949570436865564
+shared_shslope_sqrtfamily,Model 1,equal_family,0.06666666666666667,0.02641919462535649,0.00030603324466424404,0.001014953260075711
+shared_shslope_sqrtfamily,Model 1,equal_family,0.07,0.027385507138877198,0.00013483113325756907,0.0010948581439075688
+shared_shslope_sqrtfamily,Model 1,equal_family,0.07333333333333333,0.028861013346485345,0.0003665585708596461,0.000991162983902305
+shared_shslope_sqrtfamily,Model 1,equal_family,0.07666666666666667,0.029725628381177704,0.0005099679875446986,0.0009745502599253672
+shared_shslope_sqrtfamily,Model 1,equal_family,0.08,0.03067092951202952,0.00010181542675641814,0.0008525495627629545
+shared_shslope_sqrtfamily,Model 1,equal_family,0.08333333333333334,0.03153622586945929,-0.00030592917296300474,0.0007292571985431799
+shared_shslope_sqrtfamily,Model 1,equal_family,0.08666666666666667,0.032420171875751164,-0.0007675135327902178,0.0013353487843433918
+shared_shslope_sqrtfamily,Model 1,equal_family,0.09000000000000001,0.03348988586875514,-0.0005097140525936749,0.0012758764332732773
+shared_shslope_sqrtfamily,Model 1,equal_family,0.09333333333333334,0.0344932576212758,-0.0004343897304820462,0.0012948308470661582
+shared_shslope_sqrtfamily,Model 1,equal_family,0.09666666666666668,0.035434845473827394,-0.000596799864568026,0.0012873160874939402
+shared_shslope_sqrtfamily,Model 1,equal_family,0.1,0.03639846877458807,-0.0008971396933631394,0.001330393670462854
+shared_shslope_sqrtfamily,Model 1,equal_family,0.10333333333333335,0.037468575464811416,-0.0007072768321129191,0.0014577997671563882
+shared_shslope_sqrtfamily,Model 1,equal_family,0.10666666666666667,0.038611254821365584,-0.0006958761241478262,0.001216573642040607
+shared_shslope_sqrtfamily,Model 1,equal_family,0.11,0.03969537650068916,-0.0005054443375974977,0.0011934481190133013
+shared_shslope_sqrtfamily,Model 1,equal_family,0.11333333333333334,0.04073970116145879,-0.0004295052986372158,0.0011859079817881518
+shared_shslope_sqrtfamily,Model 1,equal_family,0.11666666666666667,0.04158053095573858,-0.000991053996561471,0.001388514813173753
+shared_shslope_sqrtfamily,Model 1,equal_family,0.12000000000000001,0.042614836980735614,-0.0005758342734477011,0.0013909913395009899
+shared_shslope_sqrtfamily,Model 1,equal_family,0.12333333333333334,0.04318961093985385,-0.0008380172537004425,0.0013184658374887103
+shared_shslope_sqrtfamily,Model 1,equal_family,0.12666666666666668,0.044027733482278696,-0.0008105145721196074,0.0013477034102679212
+shared_shslope_sqrtfamily,Model 1,equal_family,0.13,0.04533415647831741,-4.3056544236717395e-05,0.001163328539958859
+shared_shslope_sqrtfamily,Model 1,equal_family,0.13333333333333333,0.04615997635803313,-0.00023436253307745574,0.0012301195811651872
+shared_shslope_sqrtfamily,Model 1,equal_family,0.1366666666666667,0.04683032005421076,-0.00037818407369941603,0.0013642759268451226
+shared_shslope_sqrtfamily,Model 1,equal_family,0.14,0.04814447072097217,-6.852080809594457e-06,0.0015604527155299143
+shared_shslope_sqrtfamily,Model 1,equal_family,0.14333333333333334,0.04891179814172336,-0.0002289119511778835,0.0015972265826463782
+shared_shslope_sqrtfamily,Model 1,equal_family,0.14666666666666667,0.04981627818848105,-0.00011812970664268848,0.0018118914108973673
+shared_shslope_sqrtfamily,Model 1,equal_family,0.15000000000000002,0.050701574351643665,-0.00017280065273771024,0.0017578393032355137
+shared_shslope_sqrtfamily,Model 1,equal_family,0.15333333333333335,0.05152397651669066,-7.755978225424847e-05,0.0017730624336575697
+shared_shslope_sqrtfamily,Model 1,equal_family,0.15666666666666668,0.05240431886687428,-3.7733623623998734e-05,0.0017693086492056862
+shared_shslope_sqrtfamily,Model 1,equal_family,0.16,0.05323393805749657,-0.0002819260757891758,0.001838605645263887
+shared_shslope_sqrtfamily,Model 1,equal_family,0.16333333333333333,0.053829688708716565,7.320264702903045e-05,0.001769659074461483
+shared_shslope_sqrtfamily,Model 1,equal_family,0.16666666666666669,0.054685264769250605,-8.048211562504586e-06,0.0017738938501290784
+shared_shslope_sqrtfamily,Model 1,equal_family,0.17,0.05556379904707805,-0.0001506042402973948,0.0018334941285234078
+shared_shslope_sqrtfamily,Model 1,equal_family,0.17333333333333334,0.056799403331857484,-0.00024235246448726678,0.001645784990279123
+shared_shslope_sqrtfamily,Model 1,equal_family,0.17666666666666667,0.057344366992872736,-0.00022978060297756085,0.0016070347631140865
+shared_shslope_sqrtfamily,Model 1,equal_family,0.18000000000000002,0.058350451547739,0.00015621994929626725,0.0017572424149895215
+shared_shslope_sqrtfamily,Model 1,equal_family,0.18333333333333335,0.059230193057300824,0.00024045419665666204,0.0016888009281249587
+shared_shslope_sqrtfamily,Model 1,equal_family,0.18666666666666668,0.059647481555235714,-0.0003232702936348358,0.0021028502927264423
+shared_shslope_sqrtfamily,Model 1,equal_family,0.19,0.06071055577370067,-0.00039011485352948743,0.0021266802982282565
+shared_shslope_sqrtfamily,Model 1,equal_family,0.19333333333333336,0.061346922140857664,-0.0013785628946919272,0.003121070196133961
+shared_shslope_sqrtfamily,Model 1,equal_family,0.19666666666666668,0.06237318272953755,-0.0018551169280253987,0.0035814696059730837
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2,0.06297137559668001,-0.0017833518580961545,0.003567039650237909
+shared_shslope_sqrtfamily,Model 1,equal_family,0.20333333333333334,0.06430715236295892,-0.0007119510391212463,0.0039424975922658905
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2066666666666667,0.06483448627778429,-0.0011173935728092561,0.0040322526756627645
+shared_shslope_sqrtfamily,Model 1,equal_family,0.21000000000000002,0.06528890200823065,-0.0014499082087595066,0.0041175241470838555
+shared_shslope_sqrtfamily,Model 1,equal_family,0.21333333333333335,0.06608062938624297,-0.001367455668924329,0.0038201481716101868
+shared_shslope_sqrtfamily,Model 1,equal_family,0.21666666666666667,0.06721655657082079,-0.0007514982855921751,0.0041776432907926694
+shared_shslope_sqrtfamily,Model 1,equal_family,0.22,0.06871237341164282,0.00012786457357661147,0.0046424213053470826
+shared_shslope_sqrtfamily,Model 1,equal_family,0.22333333333333336,0.06944365178270741,1.7173912138506913e-05,0.00466588761774908
+shared_shslope_sqrtfamily,Model 1,equal_family,0.22666666666666668,0.07001870465398494,-0.0005055824060544753,0.004668131589540828
+shared_shslope_sqrtfamily,Model 1,equal_family,0.23,0.07065624911280007,-0.0005992719143781297,0.004567093859411243
+shared_shslope_sqrtfamily,Model 1,equal_family,0.23333333333333334,0.07139150996096533,-0.0005116962715966126,0.0042102039005372195
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2366666666666667,0.07199185225564404,-0.0009224547877839251,0.004278690321590539
+shared_shslope_sqrtfamily,Model 1,equal_family,0.24000000000000002,0.07309760003448516,-0.0006454880754644717,0.003925159112073523
+shared_shslope_sqrtfamily,Model 1,equal_family,0.24333333333333335,0.07362337287379186,-0.0014828559217491815,0.003585075829941999
+shared_shslope_sqrtfamily,Model 1,equal_family,0.24666666666666667,0.07430038270933954,-0.001583930357992776,0.0035882725195413743
+shared_shslope_sqrtfamily,Model 1,equal_family,0.25,0.07583419820971801,-0.00014897864032403763,0.003054848329473543
+shared_shslope_sqrtfamily,Model 1,equal_family,0.25333333333333335,0.07685815950761186,0.0006266497099174783,0.002770491309137489
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2566666666666667,0.07749472291718995,0.00045471077086602915,0.0031639181419468214
+shared_shslope_sqrtfamily,Model 1,equal_family,0.26,0.0780099664755766,0.0010244839084335544,0.0032727711915632707
+shared_shslope_sqrtfamily,Model 1,equal_family,0.26333333333333336,0.07902006264761997,-1.2569780075680564e-05,0.002569123597879707
+shared_shslope_sqrtfamily,Model 1,equal_family,0.26666666666666666,0.07961007825429042,0.00021510233023477182,0.0025565025167107068
+shared_shslope_sqrtfamily,Model 1,equal_family,0.27,0.08035505523648341,9.999625341875561e-05,0.0026151932978750866
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2733333333333334,0.08172314626599715,0.0013299496154203737,0.002657382716552819
+shared_shslope_sqrtfamily,Model 1,equal_family,0.27666666666666667,0.0817164626107441,0.00021350101365837014,0.0029518426545692656
+shared_shslope_sqrtfamily,Model 1,equal_family,0.28,0.08270789525769857,0.0006625704045058883,0.002764782947704624
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2833333333333333,0.08326587343185946,0.0005560412234946725,0.0027290026689240484
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2866666666666667,0.08403686972698501,0.0012681192300914303,0.0031981951943400853
+shared_shslope_sqrtfamily,Model 1,equal_family,0.29000000000000004,0.0843007454363117,0.0012590719301970288,0.003556538078581853
+shared_shslope_sqrtfamily,Model 1,equal_family,0.29333333333333333,0.08487729416484177,0.0013528016795784949,0.003503624213651262
+shared_shslope_sqrtfamily,Model 1,equal_family,0.2966666666666667,0.0852158656032047,0.0016523727654071216,0.0035108065333511944
+shared_shslope_sqrtfamily,Model 1,equal_family,0.30000000000000004,0.08516087255804762,0.0009942802192998887,0.003551982637611583
+shared_shslope_sqrtfamily,Model 1,equal_family,0.30333333333333334,0.0866316164446071,0.001635500661202209,0.003936754211231129
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3066666666666667,0.08786535437687762,0.0022013204617453244,0.004036294466720118
+shared_shslope_sqrtfamily,Model 1,equal_family,0.31,0.08863103468950384,0.0022758566141729006,0.00390390694617245
+shared_shslope_sqrtfamily,Model 1,equal_family,0.31333333333333335,0.08895201801035726,0.002426720339912053,0.003918809554086706
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3166666666666667,0.08924560965944456,0.002033581856555893,0.0040978879457359806
+shared_shslope_sqrtfamily,Model 1,equal_family,0.32,0.08955676444883294,0.001966497237937049,0.0039905494921912196
+shared_shslope_sqrtfamily,Model 1,equal_family,0.32333333333333336,0.08985836545604763,0.001696382606427191,0.003886504977658384
+shared_shslope_sqrtfamily,Model 1,equal_family,0.32666666666666666,0.09019997856333196,0.0012282056512321394,0.0037162217348372753
+shared_shslope_sqrtfamily,Model 1,equal_family,0.33,0.09070016225273801,0.001601496967350626,0.0035905519779367502
+shared_shslope_sqrtfamily,Model 1,equal_family,0.33333333333333337,0.09153150209548745,0.0018149827171594806,0.0035450429973981914
+shared_shslope_sqrtfamily,Model 1,equal_family,0.33666666666666667,0.09213654010532608,0.002230335652050837,0.003669529247432663
+shared_shslope_sqrtfamily,Model 1,equal_family,0.34,0.0926550320884141,0.0027468934597180074,0.0038050766244661868
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3433333333333334,0.09355827021287044,0.0028657266910610732,0.003973879090613014
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3466666666666667,0.0944909980945898,0.0039411800620822385,0.004160366141745665
+shared_shslope_sqrtfamily,Model 1,equal_family,0.35000000000000003,0.0951446695042289,0.004176785905083833,0.004300185275724057
+shared_shslope_sqrtfamily,Model 1,equal_family,0.35333333333333333,0.09509967011763622,0.003833597675454482,0.004056088602735355
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3566666666666667,0.09533342331375624,0.0032368075242452366,0.0038443813558873855
+shared_shslope_sqrtfamily,Model 1,equal_family,0.36000000000000004,0.09603565180394823,0.0038949833277134604,0.0038563758061258575
+shared_shslope_sqrtfamily,Model 1,equal_family,0.36333333333333334,0.09677424988466665,0.004642034976417352,0.003684048218535135
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3666666666666667,0.09729410312560687,0.004679556293770822,0.003696391258855891
+shared_shslope_sqrtfamily,Model 1,equal_family,0.37000000000000005,0.09714208333957311,0.0040827564292027965,0.0034527541256365053
+shared_shslope_sqrtfamily,Model 1,equal_family,0.37333333333333335,0.09821074135171522,0.0052057455904820195,0.0036639974939675695
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3766666666666667,0.09838938372534968,0.0048615804744837,0.003715705582113575
+shared_shslope_sqrtfamily,Model 1,equal_family,0.38,0.09816520478454464,0.004783218646318567,0.003982574898024582
+shared_shslope_sqrtfamily,Model 1,equal_family,0.38333333333333336,0.09866750876141062,0.005081599151885016,0.004656127494331483
+shared_shslope_sqrtfamily,Model 1,equal_family,0.3866666666666667,0.0990990939358504,0.004658562950196833,0.004657368553873088
+shared_shslope_sqrtfamily,Model 1,equal_family,0.39,0.09868276949448129,0.0036314779430436394,0.004291869814408088
+shared_shslope_sqrtfamily,Model 1,equal_family,0.39333333333333337,0.09838201459590444,0.002860174812705628,0.004204642319716772
+shared_shslope_sqrtfamily,Model 1,equal_family,0.39666666666666667,0.09811515238136444,0.002408173375128528,0.004481195283305915
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4,0.09837202753425452,0.0024594987629343776,0.004611174451404705
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4033333333333334,0.09922395969762253,0.0025917072893207166,0.005008361936700463
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4066666666666667,0.09917050275077575,0.0022518396407722394,0.00463690178676391
+shared_shslope_sqrtfamily,Model 1,equal_family,0.41000000000000003,0.09896227036984595,0.0016740765717949036,0.004593237335695069
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4133333333333334,0.09943395922745271,0.0023471437472036916,0.004734200246782472
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4166666666666667,0.098686378723907,0.0023714521213678225,0.00480857489373473
+shared_shslope_sqrtfamily,Model 1,equal_family,0.42000000000000004,0.09892043025890389,0.0013618039808515993,0.004618079790449996
+shared_shslope_sqrtfamily,Model 1,equal_family,0.42333333333333334,0.09899166508636868,0.0011264159946112664,0.004359667709303109
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4266666666666667,0.09858209073554193,0.00047929746249404534,0.00441317654287091
+shared_shslope_sqrtfamily,Model 1,equal_family,0.43000000000000005,0.09861088512324137,7.677587455415121e-05,0.00437220646019534
+shared_shslope_sqrtfamily,Model 1,equal_family,0.43333333333333335,0.0984055889519092,-0.00021555875898163592,0.004654666315095254
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4366666666666667,0.09776380635222064,-0.001083679099171214,0.004848183519910698
+shared_shslope_sqrtfamily,Model 1,equal_family,0.44,0.09771866334668029,-0.0009830826989419767,0.004897344335221902
+shared_shslope_sqrtfamily,Model 1,equal_family,0.44333333333333336,0.09818920602795066,-0.0011036629472431806,0.004965478809334064
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4466666666666667,0.09809959318447072,-0.0010305782481422224,0.004571460590463493
+shared_shslope_sqrtfamily,Model 1,equal_family,0.45,0.09769745302216924,-0.001228866754324774,0.00444757991318701
+shared_shslope_sqrtfamily,Model 1,equal_family,0.45333333333333337,0.09740668623166593,-0.0009420798362763823,0.0046437550206623384
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4566666666666667,0.09703922276021731,-0.001299759703397635,0.004423917424892581
+shared_shslope_sqrtfamily,Model 1,equal_family,0.46,0.09678438568384994,-0.0015302188538672743,0.004564383784113568
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4633333333333334,0.09723169817378102,-0.0011874566244016627,0.00452779395990736
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4666666666666667,0.09735755399292427,-0.001174232580230856,0.004564116889318775
+shared_shslope_sqrtfamily,Model 1,equal_family,0.47000000000000003,0.09742114163178198,-0.0009491074513554006,0.004406866634284938
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4733333333333334,0.09801895567793187,-0.00028774982907462196,0.004516000636836504
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4766666666666667,0.09759242388410523,-0.001072111876484137,0.0041822886023724585
+shared_shslope_sqrtfamily,Model 1,equal_family,0.48000000000000004,0.09763880500169135,0.00043037543717548194,0.0038090240116570788
+shared_shslope_sqrtfamily,Model 1,equal_family,0.48333333333333334,0.09766692559946213,0.0004379996308923657,0.0038234528159915627
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4866666666666667,0.09713153896900731,9.327530295272202e-05,0.0037084060593956096
+shared_shslope_sqrtfamily,Model 1,equal_family,0.49000000000000005,0.09734984653704075,0.0002153416951476218,0.0035567385243354434
+shared_shslope_sqrtfamily,Model 1,equal_family,0.49333333333333335,0.09701390846533155,-4.63951644124834e-06,0.0036719820080970875
+shared_shslope_sqrtfamily,Model 1,equal_family,0.4966666666666667,0.09657866378867717,-0.0008513335747796812,0.003911276975244682
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5,0.09644683668792921,0.00040280605058994734,0.003710369697863163
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5033333333333334,0.09680296849134783,0.001071337682142821,0.0037941780805288974
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5066666666666667,0.09688691810545867,0.0008453522272037871,0.00380237020084279
+shared_shslope_sqrtfamily,Model 1,equal_family,0.51,0.09706908365308572,0.00098452523183706,0.003951572846338406
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5133333333333334,0.09743419060001929,0.000796387185582044,0.0035687044131086144
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5166666666666667,0.09706236444285476,0.000337095178427462,0.0035016579520328298
+shared_shslope_sqrtfamily,Model 1,equal_family,0.52,0.09671657980058564,-0.00013776317998715116,0.0037505141233080855
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5233333333333333,0.09618391013534443,-0.0008435316662434418,0.0035213648824768532
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5266666666666667,0.0960328880500199,-0.001029936571767152,0.0034003095179577477
+shared_shslope_sqrtfamily,Model 1,equal_family,0.53,0.09632601900837634,-0.000904192979461797,0.0033288280490691977
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5333333333333333,0.09518088599371928,-0.0015987078457574129,0.0031102758320808023
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5366666666666667,0.09479415538131454,-0.0016150915067778438,0.002983731453671249
+shared_shslope_sqrtfamily,Model 1,equal_family,0.54,0.09508695747309512,-0.001139576802834081,0.0030367598831110296
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5433333333333333,0.09514709270671706,-0.0009429229161723262,0.0028074606388086456
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5466666666666667,0.09507046384868371,-0.0008359635721293216,0.0027642872249248676
+shared_shslope_sqrtfamily,Model 1,equal_family,0.55,0.09460483439813551,-0.0019729704977541327,0.0027745924605463417
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5533333333333333,0.094389965017912,-0.0015570430870719355,0.003427041219169073
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5566666666666668,0.09430197153010335,-0.0016775164884265338,0.0033366424252754367
+shared_shslope_sqrtfamily,Model 1,equal_family,0.56,0.09471920868599899,-0.0008402166356533008,0.0034336644606512284
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5633333333333334,0.09510929284122997,0.0002790481463442383,0.0030785120153417164
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5666666666666667,0.09472752714278572,-0.00017770589892278816,0.002698663319793901
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5700000000000001,0.09464527980050814,-0.00017484462095005034,0.0024729221732553946
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5733333333333334,0.09392462195226173,-0.0008369404584982874,0.0024239468490732823
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5766666666666667,0.09300877415928431,-0.0014136655857085966,0.0023386717697139823
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5800000000000001,0.09240025703817992,-0.0015977212460296655,0.0023564087047517482
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5833333333333334,0.09178717463844784,-0.002202580423141662,0.0025359142570296088
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5866666666666667,0.09151143718922622,-0.0018424382195690878,0.0024552725766664417
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5900000000000001,0.09073395619210316,-0.0026181942310974575,0.002521381521134199
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5933333333333334,0.09007669049851558,-0.0028174929265933728,0.002813030689367285
+shared_shslope_sqrtfamily,Model 1,equal_family,0.5966666666666667,0.08980745822443272,-0.002086665362301345,0.002627768678367016
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6000000000000001,0.08972649165789173,-0.0021342191916542833,0.0026184500419752952
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6033333333333334,0.08943912593058499,-0.0013738838310042092,0.0024949856215156383
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6066666666666667,0.08906510316671296,-0.0014134824195144156,0.0021688202731474076
+shared_shslope_sqrtfamily,Model 1,equal_family,0.61,0.08819084242555074,-0.0018123587226655676,0.0022207748307202933
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6133333333333334,0.08722673311565197,-0.0023859297835169854,0.002301770012600048
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6166666666666667,0.086751497153268,-0.0023947453504232943,0.0022566150905170587
+shared_shslope_sqrtfamily,Model 1,equal_family,0.62,0.08611449907659116,-0.002449456537576128,0.0022081920896952784
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6233333333333334,0.08572257042961526,-0.002277573103432008,0.0021906683511597543
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6266666666666667,0.08502584490978582,-0.0027879379510640984,0.002312191005011384
+shared_shslope_sqrtfamily,Model 1,equal_family,0.63,0.08471001349075609,-0.002646843089014607,0.0023582657606870294
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6333333333333334,0.08487149652229017,-0.0011871320198097017,0.0021183084601176334
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6366666666666667,0.08460569861434823,-0.0013682570210238711,0.00214896440454794
+shared_shslope_sqrtfamily,Model 1,equal_family,0.64,0.08460871791070733,-0.0011330577514684517,0.0023148093155597135
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6433333333333334,0.08335753722011012,-0.002179279463045527,0.0023983586398481954
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6466666666666667,0.08364338107794578,-0.00200539299555822,0.00238408951227044
+shared_shslope_sqrtfamily,Model 1,equal_family,0.65,0.08281091414437859,-0.002680252186546443,0.0024768976134701415
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6533333333333333,0.08223544325747442,-0.00269698691610572,0.0025905629560045986
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6566666666666667,0.0818555577877659,-0.002730196889782518,0.0024688378469226455
+shared_shslope_sqrtfamily,Model 1,equal_family,0.66,0.08114656984628511,-0.001422374999479642,0.0022770510922485287
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6633333333333333,0.08059652159455959,-0.0017673352232754273,0.002248501342769867
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6666666666666667,0.0803137752631652,-0.0014254249941372946,0.002368419457472764
+shared_shslope_sqrtfamily,Model 1,equal_family,0.67,0.07966522030789759,-0.0012890723956813649,0.0025310016156844767
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6733333333333333,0.0790430684063082,-0.0012666942046695522,0.002770567223819206
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6766666666666667,0.07869302376240167,-0.0009052934273233255,0.0026616637683435297
+shared_shslope_sqrtfamily,Model 1,equal_family,0.68,0.07761390412165206,-0.001567878401867387,0.0027253106378265684
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6833333333333333,0.07738612013711607,-0.0009054092938173715,0.0024802662066906924
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6866666666666668,0.07679865463973837,-0.0010074758802794473,0.002468930818585806
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6900000000000001,0.07617569930461543,-0.0009415582523371668,0.0025105111124063767
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6933333333333334,0.07565798821189902,-0.0011518413689932177,0.002619595475532133
+shared_shslope_sqrtfamily,Model 1,equal_family,0.6966666666666667,0.07486839604399702,-0.0004081325033331325,0.0023961389630891227
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7000000000000001,0.07407880387609508,-0.0006483666987207507,0.0022956480472513825
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7033333333333334,0.0729856387185462,-0.0012358681036887173,0.002336427864438491
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7066666666666667,0.07276422808499412,-0.0012855311195201042,0.002291409936193909
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7100000000000001,0.07215436358226436,-0.0016475195550726632,0.0022535014304654083
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7133333333333334,0.07136420665193034,-0.0015557331712590038,0.0022488681065632446
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7166666666666667,0.07006822656300633,-0.002278063628050515,0.002273857824835137
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7200000000000001,0.06905818832991666,-0.0030900532430823543,0.0024903257155962557
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7233333333333334,0.06850516362753568,-0.0030532410009199936,0.002391461199187888
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7266666666666667,0.06779507391364448,-0.0035403673314766946,0.0024838161956564483
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7300000000000001,0.06742571911247867,-0.0034461866047231907,0.0023987786005909713
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7333333333333334,0.0667876636673172,-0.0039019429492810035,0.002414656465179652
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7366666666666667,0.06586919326746858,-0.004022064588285412,0.002457587924053352
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7400000000000001,0.0656532484796656,-0.003925992531814719,0.002421038194652703
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7433333333333334,0.06511624388116212,-0.0036212456133777934,0.0024824257789217304
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7466666666666667,0.06472530183391395,-0.0032051031211797016,0.0026565919987108343
+shared_shslope_sqrtfamily,Model 1,equal_family,0.75,0.06397506264530729,-0.0035598349839105147,0.0026930847923775075
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7533333333333334,0.06356835165388731,-0.003796678586345516,0.0026970059189108044
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7566666666666667,0.06321519734754781,-0.0023104181323431263,0.002519905336648489
+shared_shslope_sqrtfamily,Model 1,equal_family,0.76,0.06249333712424643,-0.002348101107739188,0.002496530661231892
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7633333333333334,0.06196751121407868,-0.0021312087442431006,0.0024320372734213157
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7666666666666667,0.06152423914020206,-0.001805009179124049,0.002325887482572871
+shared_shslope_sqrtfamily,Model 1,equal_family,0.77,0.06067307676622425,-0.0017845070539799098,0.0023334434214785835
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7733333333333334,0.0600649287527536,-0.0019053197290805476,0.0023654585358433983
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7766666666666667,0.05959760848396594,-0.0014053821721012908,0.002307607383132847
+shared_shslope_sqrtfamily,Model 1,equal_family,0.78,0.058958651084060384,-0.0008360641747738524,0.002093829273005104
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7833333333333334,0.058231142542627054,-0.0009398541886084505,0.001983345173378049
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7866666666666667,0.05772345286092864,-0.0009224506249158752,0.0018757973917749224
+shared_shslope_sqrtfamily,Model 1,equal_family,0.79,0.05715586644611036,-0.0009831716059096073,0.001707566301312108
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7933333333333333,0.05661835814057288,-0.0005914582110490847,0.0016070098081663814
+shared_shslope_sqrtfamily,Model 1,equal_family,0.7966666666666667,0.05589875349794295,-0.0008425610241765495,0.0014206139395353092
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8,0.0552522696326038,-0.0009848617303377333,0.0013851518833170398
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8033333333333333,0.054653050277288145,-0.0011147785978627834,0.00147320894942141
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8066666666666668,0.054024171180930614,-0.0012693306246938552,0.0014584707379742034
+shared_shslope_sqrtfamily,Model 1,equal_family,0.81,0.0534249761090119,-0.0012924484185958087,0.0014125608235756825
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8133333333333334,0.05245716323417172,-0.0018389039445950016,0.0016606725207502784
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8166666666666668,0.05147166649585692,-0.002413228484563391,0.0019017991857750195
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8200000000000001,0.05091568060667005,-0.00213753699748979,0.0017977443833392568
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8233333333333334,0.050433644599327136,-0.002070643870801227,0.00176389201214433
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8266666666666668,0.0496217679049445,-0.002017856622498636,0.0019081964667990855
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8300000000000001,0.04908754202086409,-0.0013327422060702937,0.0017991934142514154
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8333333333333334,0.04862686915854025,-0.0013119625563895163,0.0018201814849942454
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8366666666666667,0.04815516608350773,-0.001269762175348328,0.001773890354968663
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8400000000000001,0.0473236108180434,-0.0015347606420252626,0.0016998707591098763
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8433333333333334,0.046595444543458236,-0.00138027799632835,0.001917093043695842
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8466666666666667,0.04592827677440341,-0.0017091029435639977,0.0018588385585569973
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8500000000000001,0.04548567908515079,-0.001547428249500108,0.0018948390211658782
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8533333333333334,0.04474480079916492,-0.0014191480829298816,0.0019656751296930636
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8566666666666667,0.043657274246389176,-0.0019231714948997926,0.00157400609396343
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8600000000000001,0.04277149207408842,-0.001132422220279549,0.001709268184242666
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8633333333333334,0.04170775423078196,-0.0010714695062977247,0.0014986310357413873
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8666666666666667,0.04110116174233914,-0.0009569531691220645,0.0016156480534877584
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8700000000000001,0.040211286083123014,-0.0012135981472461918,0.0015871734878953588
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8733333333333334,0.039247777613846055,-0.001604084883654775,0.001371841724961036
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8766666666666667,0.038740999600250514,-0.001691713949909596,0.0013222975674825697
+shared_shslope_sqrtfamily,Model 1,equal_family,0.88,0.03825572418775373,-0.0013919472092826406,0.0012257234270324634
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8833333333333334,0.03768757439812599,-0.001401294235676611,0.001290590095508943
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8866666666666667,0.037182200658685854,-0.0012458194397612172,0.0011425950073232086
+shared_shslope_sqrtfamily,Model 1,equal_family,0.89,0.036639294500910774,-0.0009885777838833177,0.0010925334245496154
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8933333333333334,0.035976525495761656,-0.0008766798907108364,0.0011090197142259134
+shared_shslope_sqrtfamily,Model 1,equal_family,0.8966666666666667,0.03507801466058805,-0.0009976861391757794,0.001245064300803384
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9,0.034220410942114865,-0.0010755983775915586,0.0012623752689161466
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9033333333333334,0.033558378764610555,-0.0010230504942018177,0.0012034023447665728
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9066666666666667,0.03274553281578369,-0.000947798328469715,0.001312387410460902
+shared_shslope_sqrtfamily,Model 1,equal_family,0.91,0.03197942824322876,-0.001057866641134409,0.0013613477073535197
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9133333333333334,0.03127449493522822,-0.0009466875365118205,0.0012854065752376698
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9166666666666667,0.030277220055578515,-0.0011155445655839037,0.0011266395575000067
+shared_shslope_sqrtfamily,Model 1,equal_family,0.92,0.029407039618916275,-0.0013225813389726312,0.000997501169182155
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9233333333333333,0.02880222883799868,-0.001105862428311943,0.0010363364334800005
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9266666666666667,0.027439470795068793,-0.0017142822452290048,0.00110764403873618
+shared_shslope_sqrtfamily,Model 1,equal_family,0.93,0.026455782129110185,-0.0019134248331730626,0.0013481387245645052
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9333333333333333,0.025902603400611447,-0.001641966982905876,0.0012421238248907544
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9366666666666668,0.02493678870243501,-0.0017776487288682398,0.0011184493680509297
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9400000000000001,0.02398722584112413,-0.0013748621049958572,0.0014096683521894345
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9433333333333334,0.023207617618427746,-0.0010786379650790873,0.001502181888652311
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9466666666666668,0.02248226821788942,-0.0004981315660570835,0.0012096827197198093
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9500000000000001,0.021622966049252033,-7.91777503028483e-05,0.0015614967095124359
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9533333333333334,0.020501436496436043,-0.0004278512523988527,0.0011285461215749938
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9566666666666668,0.019505285591159677,-8.589245646680772e-05,0.0011051089037953383
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9600000000000001,0.01785232291551272,-0.00015020460496463684,0.0018867364854484767
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9633333333333334,0.01644474604753849,-0.00028015546924542483,0.0014347847364225503
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9666666666666667,0.01531012843757463,-0.00024731599082503884,0.0012969016048031091
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9700000000000001,0.013474843242337867,-0.0008211284980233322,0.0007965074618627969
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9733333333333334,0.012035657717263228,-0.0005611712645544278,0.0009812107248968918
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9766666666666667,0.010249254306287259,-0.0006456483458843806,0.0010483060166523762
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9800000000000001,0.008837678309740015,-0.0007152889654856617,0.000950123738721498
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9833333333333334,0.007421638331020994,-0.0005173543030873223,0.0006118205814996297
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9866666666666667,0.006087049028559885,-5.2135759452832824e-05,0.0003516365077419726
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9900000000000001,0.004642684895631538,-2.5435123782882967e-06,6.18443586284324e-05
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9933333333333334,0.003108244623846607,-0.00015168658599028385,0.00027305324545529345
+shared_shslope_sqrtfamily,Model 1,equal_family,0.9966666666666667,0.0015807535664590948,-3.509852814861983e-05,0.0001004190130935596
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.0033333333333333335,0.0016776731191902343,-3.4912586709072415e-06,8.161172797605401e-06
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.006666666666666667,0.0033012539309443373,-1.0110218869725822e-05,2.8185712852572766e-05
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.01,0.00491805759351374,-6.919935558802593e-05,0.00020978997305494342
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.013333333333333334,0.006458500379827167,2.2201962931038148e-08,0.00021070694522422616
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.016666666666666666,0.007980949168996325,0.00010612191375369976,0.00028891526765368523
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.02,0.009450423380800665,0.00022273633642634424,0.0003706089797477816
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.023333333333333334,0.010820529932261732,0.00029496070946372543,0.0004455466445802234
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.02666666666666667,0.012130302649457659,0.00039222612144196203,0.00044167401300031136
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.030000000000000002,0.013368537173033079,0.0004250246649931938,0.0004250088828349965
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.03333333333333333,0.014715494015270468,0.0007011449274759005,0.0004202952273701213
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.03666666666666667,0.016169526761856255,0.0009236183094037801,0.0004208018704105542
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.04,0.017386690928798767,0.0008651730296104804,0.0004976913937089429
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.043333333333333335,0.018769691270232033,0.0010682266320871092,0.0005957467220342705
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.04666666666666667,0.019704458957295754,0.0005805577410612816,0.000786910540842467
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.05,0.02133654867134317,0.0006837718914823559,0.0008910385551681669
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.05333333333333334,0.022521567171206864,0.0007269533217605602,0.0008851642013451504
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.05666666666666667,0.023541999744617348,0.0007223935936235965,0.000887150113762115
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.060000000000000005,0.024759079266576185,0.0005357153264312983,0.0009277727034827157
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.06333333333333334,0.025916324498435814,0.0007182418265554903,0.0010318288276351503
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.06666666666666667,0.02695336691536409,0.0008402055346718342,0.001042952876878185
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.07,0.028141704608686008,0.0008910286030663686,0.0010786880955780283
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.07333333333333333,0.029243593408845105,0.0007491386332194095,0.0009737065853384255
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.07666666666666667,0.030455576192688592,0.0012399157990555844,0.0010596766307266006
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.08,0.03163032905994206,0.001061214974668948,0.0011163049947076596
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.08333333333333334,0.03269364194950846,0.0008514869070861729,0.001161945296694074
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.08666666666666667,0.033620187972174295,0.00043250256363290736,0.0015576215055006335
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.09000000000000001,0.03446526666710997,0.00046566674576115996,0.001558062473861835
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.09333333333333334,0.0353357943620554,0.0004081470102975481,0.0015382762923577603
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.09666666666666668,0.036301658673449415,0.00027001333505398563,0.001560074346240137
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.1,0.037333865225326765,3.82567573755616e-05,0.0018210469796907042
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.10333333333333335,0.03857459677592059,0.0003987444789962496,0.0015766530130976526
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.10666666666666667,0.0394172027272348,0.00011007178172140173,0.0016244423327485982
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.11,0.04039529199446775,0.0001944711561810959,0.0014481623249070694
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.11333333333333334,0.04157821657170251,0.00040901011160649235,0.0015661914231278457
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.11666666666666667,0.04221845579376833,-0.00035312915853172837,0.0017228221465940081
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.12000000000000001,0.04338783994886054,0.00019716869467721824,0.0017807840851700473
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.12333333333333334,0.044150477204942515,0.0001228490113882194,0.0017637287273348913
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.12666666666666668,0.04554932003454974,0.0007110719801514457,0.001529497433999914
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.13,0.04612284790849849,0.0007456348859443538,0.0014635749603214739
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.13333333333333333,0.04724480589552461,0.0008504670044140275,0.0016028594847129576
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.1366666666666667,0.047936965795527364,0.0007284616676171885,0.0015359183370580206
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.14,0.04907885420715216,0.0009275314053703774,0.001736448555007789
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.14333333333333334,0.049903878979070386,0.0007631688861691485,0.001727634897933555
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.14666666666666667,0.050835167896067304,0.0009007600009435833,0.001931416400153379
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.15000000000000002,0.05169292668708201,0.0008185516827006469,0.0020689764115816513
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.15333333333333335,0.0526529671460747,0.0010514308471297723,0.0020546216300358056
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.15666666666666668,0.053606804931673475,0.0011647524411752055,0.002053362785767661
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.16,0.05439225470466715,0.000876390571381392,0.0020715995246086824
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.16333333333333333,0.055079836143626666,0.0013233500819391192,0.002038628373337458
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.16666666666666669,0.05570225343376093,0.0010089404529477967,0.0019182703553742848
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.17,0.056134905690044146,0.00042050240266867635,0.001901899306482631
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.17333333333333334,0.056767993104800775,-0.00027376269154396596,0.0019506005298168953
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.17666666666666667,0.0575874049429655,1.3257347115201507e-05,0.0020123507312691503
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.18000000000000002,0.05870204183271508,0.0005078102342723381,0.002059599677854126
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.18333333333333335,0.05950910521662209,0.0005193663559779482,0.002020296739054363
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.18666666666666668,0.06031995681045424,0.000349204961583666,0.0023106988945880797
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.19,0.061125271789780444,2.4601162550283855e-05,0.0027516140113887787
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.19333333333333336,0.06194642786965791,-0.0007790571658916796,0.003832196901416144
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.19666666666666668,0.06263114456158803,-0.0015971550959749225,0.003948291873344134
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2,0.06366551302960581,-0.0010892144251703655,0.004188517028841706
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.20333333333333334,0.06488458101486959,-0.00013452238721055947,0.004286356457844696
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2066666666666667,0.06571287780107485,-0.00023900204951870293,0.004310360073053815
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.21000000000000002,0.06644653316979571,-0.0002922770471944346,0.004299139798355767
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.21333333333333335,0.06681282930936867,-0.0006352557457986253,0.004278536055171148
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.21666666666666667,0.06751763600250607,-0.000450418853906921,0.0044983839799329454
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.22,0.06809745952056845,-0.0004870493174977831,0.004620941959588601
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.22333333333333336,0.06899890622414069,-0.0004275716464281888,0.0045239030436789235
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.22666666666666668,0.06951834595352133,-0.00100594110651808,0.0046635699617571524
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.23,0.06986960858894473,-0.0013859124382334452,0.004506554513631213
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.23333333333333334,0.07078766513603475,-0.0011155410965271962,0.004303368015651938
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2366666666666667,0.07171384621393487,-0.0012004608294930868,0.0042669131091482414
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.24000000000000002,0.07252959334059335,-0.0012134947693562953,0.004055936748941166
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.24333333333333335,0.07322408999719454,-0.0018821387983465085,0.00406421884795111
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.24666666666666667,0.07344768302002827,-0.002436630047304057,0.004022014726826289
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.25,0.07379387250692182,-0.0021893043431202366,0.004036114591212484
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.25333333333333335,0.0742740758173126,-0.0019574339803817894,0.003872281679389606
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2566666666666667,0.0747465278673951,-0.00229348427892881,0.004363589362371188
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.26,0.07569005839170315,-0.0012954241754399103,0.0043869387462190925
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.26333333333333336,0.07629531148305767,-0.002737320944638017,0.004032825712343539
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.26666666666666666,0.07681916662781621,-0.0025758092962394046,0.004085884203296609
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.27,0.07764831263910352,-0.0026067463439611357,0.0038937453318039195
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2733333333333334,0.07853923561224649,-0.0018539610383303004,0.004185470038989411
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.27666666666666667,0.0794862310303945,-0.0020167305666912274,0.004554866403199046
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.28,0.08042531561162561,-0.00162000924156707,0.00432437815199967
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2833333333333333,0.08106377173854351,-0.001646060469821288,0.004468237140811363
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2866666666666667,0.08140402775084381,-0.0013647227460497854,0.00464253188373235
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.29000000000000004,0.0817774063165918,-0.0012642671895228934,0.004937447148438032
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.29333333333333333,0.0819969738460216,-0.001527518639241692,0.004734563886584165
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.2966666666666667,0.08231642939430087,-0.0012470634434966986,0.0047464847558808185
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.30000000000000004,0.08327018114729326,-0.0008964111914544641,0.004577071244914309
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.30333333333333334,0.08405003463800559,-0.0009460811453992679,0.005078376891348082
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3066666666666667,0.08422027773153873,-0.001443756183593582,0.00495416914277759
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.31,0.08566751390222224,-0.0006876641731087049,0.005092587825687483
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.31333333333333335,0.08582610651570724,-0.0006991911547379681,0.0051669742269694445
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3166666666666667,0.08676520636078786,-0.0004468214421007493,0.0050715372451175566
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.32,0.08757140525576328,-1.8861955132607643e-05,0.005165879729028127
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.32333333333333336,0.08732725426167912,-0.000834728587941281,0.0052039729731690725
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.32666666666666666,0.08805253532750688,-0.000919237584592948,0.005075868289863419
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.33,0.08801382187166913,-0.0010848434137183157,0.004859230020686517
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.33333333333333337,0.08821444557622792,-0.001502073802100028,0.004656217839628262
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.33666666666666667,0.08898023134817808,-0.0009259731050971547,0.00470796756273009
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.34,0.08925840650925511,-0.0006497321194410097,0.004434981437660572
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3433333333333334,0.08949364862451424,-0.001198894897295108,0.004621842433564143
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3466666666666667,0.0907371373813795,0.00018731934887193189,0.004765187842398466
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.35000000000000003,0.09123657591740465,0.0002686923182595878,0.00504174113040743
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.35333333333333333,0.09201014764023016,0.000744075198048448,0.004970469371101955
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3566666666666667,0.09301909486069189,0.0009224790711808808,0.005111721765974991
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.36000000000000004,0.09373872552695378,0.0015980570507189958,0.005588316589166944
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.36333333333333334,0.09437056824416361,0.0022383533359143113,0.005670231955291223
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3666666666666667,0.09470645046976642,0.0020919036379303873,0.005660456766178854
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.37000000000000005,0.09481722838083408,0.0017579014704637561,0.00597193849154009
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.37333333333333335,0.09466715542942486,0.0016621596681916635,0.006102087976608964
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3766666666666667,0.09439218672316971,0.0008643834723037439,0.0055794578318580715
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.38,0.09495702669149898,0.001575040553272916,0.0056268401745075206
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.38333333333333336,0.0947521717841801,0.0011662621746545165,0.005672210235390037
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.3866666666666667,0.09486333129148558,0.0004228003058320388,0.005325436765263832
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.39,0.09497433538505057,-7.695616638706045e-05,0.005164619351849177
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.39333333333333337,0.09492712829076899,-0.0005947114924298246,0.005182246105066492
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.39666666666666667,0.09553706877154729,-0.0001699102346886253,0.005146334956342417
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4,0.09562932885790777,-0.00028319991341234493,0.005074334488963993
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4033333333333334,0.095382018246974,-0.0012502341613277886,0.004997869535671399
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4066666666666667,0.09626230370462757,-0.0006563594053759278,0.005164331084545603
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.41000000000000003,0.09593593190369631,-0.0013522618943547348,0.005165922167325397
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4133333333333334,0.09586009815346046,-0.0012267173267885125,0.005114950612417433
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4166666666666667,0.09564618068239764,-0.0006687459201415225,0.0050628476515186226
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.42000000000000004,0.09619689881468008,-0.0013617274633722133,0.004860194659297542
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.42333333333333334,0.09607068603530834,-0.001794563056449085,0.005352723467064961
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4266666666666667,0.09574006741515512,-0.002362725857892769,0.005085496292854439
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.43000000000000005,0.09609434674229175,-0.002439762506395455,0.004785578726744636
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.43333333333333335,0.09628085069223781,-0.0023402970186530187,0.004673504151515872
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4366666666666667,0.09612835356400098,-0.0027191318873908523,0.004662634289627377
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.44,0.09569290629443492,-0.0030088397511873585,0.004622852362585159
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.44333333333333336,0.09477562786247111,-0.0045172411127227365,0.004654936433264023
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4466666666666667,0.09529118086071614,-0.0038389905718967964,0.004453583335818463
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.45,0.09570603408084208,-0.0032202856956519235,0.0045305178907803795
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.45333333333333337,0.09560633183283264,-0.002742434235109669,0.004665216790167881
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4566666666666667,0.09578527115772127,-0.002553711305893691,0.00450264524627921
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.46,0.09616758799586721,-0.0021470165418500057,0.0045134692528610324
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4633333333333334,0.09586279927815028,-0.0025563555200324157,0.004346546026168404
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4666666666666667,0.09563614759372384,-0.00289563897943127,0.004223036621936783
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.47000000000000003,0.09565883782923984,-0.002711411253897486,0.0039115047850269416
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4733333333333334,0.09621398664074969,-0.002092718866256764,0.003907760579707658
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4766666666666667,0.09696135449682589,-0.0017031812637634829,0.0037606732521588216
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.48000000000000004,0.09666873245479517,-0.0005396971097207133,0.003330850513545789
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.48333333333333334,0.09594748764215372,-0.0012814383264160344,0.003458402812434686
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4866666666666667,0.09576884215207494,-0.0012694215139796056,0.0033072640565889664
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.49000000000000005,0.09596996956366782,-0.0011645352782252865,0.0036067217727313015
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.49333333333333335,0.09568883842507658,-0.0013297095566961823,0.0034132705549980353
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.4966666666666667,0.09626510546620197,-0.0011648918972548671,0.0036013515043774084
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5,0.09589791396879929,-0.00014611666853995748,0.0037529424545643176
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5033333333333334,0.09607500081740586,0.0003433700082008481,0.004051011572773263
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5066666666666667,0.09686090711826228,0.0008193412400073812,0.004023738501006131
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.51,0.09706707853830854,0.0009825201170598496,0.004081923426848414
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5133333333333334,0.09684761612700366,0.0002098127125664477,0.003856597470104806
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5166666666666667,0.09705390688260071,0.000328637618173416,0.003641442322123081
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.52,0.09706229489112109,0.00020795191054829085,0.00366290581333676
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5233333333333333,0.0969484416669885,-7.900013459939994e-05,0.0035138262882442803
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5266666666666667,0.09668107852065988,-0.0003817461011271676,0.0036218802091474846
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.53,0.09689206637903947,-0.0003381456087986389,0.004032887031224882
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5333333333333333,0.09648180307355061,-0.00029779076592609233,0.0038094477098224644
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5366666666666667,0.09597526095581117,-0.00043398593228123947,0.0034847874642466806
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.54,0.09540373646781798,-0.0008227978081112101,0.0036454902065015315
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5433333333333333,0.09513533676734508,-0.0009546788555443164,0.003321188636596618
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5466666666666667,0.09468691938855914,-0.0012195080322539038,0.003492688732167019
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.55,0.09442645550221135,-0.0021513493936782696,0.0033574585711623793
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5533333333333333,0.09395094340291349,-0.001996064702070472,0.0035296894194285504
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5566666666666668,0.09320476578590049,-0.0027747222326293943,0.003447983435662999
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.56,0.09316563881850308,-0.002393786503149211,0.0035450789186480245
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5633333333333334,0.0928382054862192,-0.001992039208666537,0.0030895751344759102
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5666666666666667,0.09269064968235725,-0.002214583359351259,0.002906257699831157
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5700000000000001,0.0922719579566906,-0.0025481664647675666,0.002957712892585556
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5733333333333334,0.0918131639354798,-0.0029483984752801964,0.002752391874968061
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5766666666666667,0.091180313463003,-0.0032421262819899064,0.0028061950095350442
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5800000000000001,0.0898502714000747,-0.004147706884134896,0.003359888080597486
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5833333333333334,0.08929834153199082,-0.004691413529598687,0.0034888056637691913
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5866666666666667,0.0891674302622138,-0.0041864451465815225,0.003293029223576681
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5900000000000001,0.08863613295580625,-0.004716017467394338,0.003282253316568757
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5933333333333334,0.08794112253761321,-0.004953060887495716,0.003189265825672084
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.5966666666666667,0.0872060944688597,-0.0046880291178743845,0.003082768423373322
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6000000000000001,0.08712667648923313,-0.004734034360312883,0.0030794786875375014
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6033333333333334,0.08667682569621549,-0.0041361840653736815,0.002921622838791808
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6066666666666667,0.08640530245708271,-0.004073283129144656,0.0027533359724177153
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.61,0.0859198022497112,-0.004083398898505113,0.0027070504479403752
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6133333333333334,0.08566996200262596,-0.003942700896543016,0.002751360112239264
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6166666666666667,0.08567072641212486,-0.003475516091566446,0.0026960399585228153
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.62,0.08480573915335443,-0.003758216460812842,0.0027105887896770368
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6233333333333334,0.08430869392525879,-0.00369144960778845,0.002724642753826896
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6266666666666667,0.08413510354461484,-0.0036786793162350475,0.0028347371399606632
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.63,0.08387952547773463,-0.003477331102036059,0.0028709022453397063
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6333333333333334,0.0837345652221016,-0.002324063319998281,0.0026828812118622116
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6366666666666667,0.08335532915980882,-0.002618626475563272,0.002562367758164971
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.64,0.08300335988324073,-0.0027384157789350546,0.002552719990380971
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6433333333333334,0.08249248977035249,-0.0030443269128031807,0.0026807022559250733
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6466666666666667,0.08214256370511164,-0.0035062103683923783,0.0027037228252379175
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.65,0.08123737840483186,-0.004253787926093198,0.0027663597843271305
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6533333333333333,0.08090277383852121,-0.004029656335058905,0.0027322885607028646
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6566666666666667,0.07999283315530614,-0.004592921522242269,0.002733563273778749
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.66,0.07960161219589866,-0.002967332649866089,0.0025427077423194723
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6633333333333333,0.07946772725071151,-0.0028961295671235347,0.00257137318537216
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6666666666666667,0.07887983436554741,-0.0028593658917550873,0.0026821393762869357
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.67,0.07851245970195052,-0.0024418330016284383,0.002767889598881988
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6733333333333333,0.07766221315894364,-0.0026475494520341097,0.0028780900214591277
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6766666666666667,0.07680661733049303,-0.002791699859231987,0.003112542279822664
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.68,0.07633652806064106,-0.002845254462878382,0.003276373782426158
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6833333333333333,0.07575650993420402,-0.0025350194967294366,0.002897118265188856
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6866666666666668,0.07556842583463415,-0.0022377046853836804,0.0027707152065641924
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6900000000000001,0.07521037183260029,-0.001906885724352287,0.0028288989719275712
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6933333333333334,0.07451942021075562,-0.0022904093701366195,0.002947443994069144
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.6966666666666667,0.07406571737716941,-0.0012108111701607633,0.002560161036799015
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7000000000000001,0.07320803595182596,-0.0015191346229898564,0.0025021090312700375
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7033333333333334,0.07291514748624012,-0.0013063593359947943,0.0024544289642805753
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7066666666666667,0.07212040446293817,-0.0019293547415760893,0.002407106284405239
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7100000000000001,0.07165208233057321,-0.0021498008067638292,0.0024795583887305484
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7133333333333334,0.07139924204324688,-0.0015206977799424699,0.002412914006901451
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7166666666666667,0.07040728175847379,-0.0019390084325830457,0.0024468342264501643
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7200000000000001,0.06986421949314685,-0.0022840220798521368,0.002456813628904586
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7233333333333334,0.06906624469661574,-0.002492159931839974,0.002416452567603149
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7266666666666667,0.06810600407875772,-0.003229437166363471,0.0028122071278930925
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7300000000000001,0.06803844749782702,-0.0028334582193748218,0.002780403252987154
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7333333333333334,0.06776139319467904,-0.002928213421919167,0.0028235198101792675
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7366666666666667,0.06699031607623891,-0.002900941779515082,0.002791268424656268
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7400000000000001,0.06605202001730419,-0.00352722099417615,0.0029125308029118507
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7433333333333334,0.06562148076916849,-0.0031160087253714335,0.002846071396648664
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7466666666666667,0.06499898404334231,-0.0029314209117513603,0.003058477486313187
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.75,0.06388384379917106,-0.003651053830046749,0.0032347106990577145
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7533333333333334,0.06301244086692487,-0.004352589373307968,0.0034426508440270334
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7566666666666667,0.06248309872087798,-0.0030425167590129574,0.0030015282973717156
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.76,0.06183617220390291,-0.003005266028082708,0.0030892680022586794
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7633333333333334,0.06159071961974186,-0.002508000338579936,0.0030259806154543556
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7666666666666667,0.06126486123920338,-0.002064387080122722,0.002938186473256784
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.77,0.0608075186713192,-0.0016500651488849758,0.00284173874804349
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7733333333333334,0.06014114947911856,-0.0018290990027155787,0.002828193528150519
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7766666666666667,0.05953896963080833,-0.0014640210252588966,0.002580048111427071
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.78,0.059263899628097264,-0.000530815630736953,0.00229311294219548
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7833333333333334,0.058263886968893626,-0.0009071097623418647,0.0020222852849256985
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7866666666666667,0.05757447838347264,-0.0010714251023718642,0.0019775527502459158
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.79,0.056751190573954786,-0.0013878474780651552,0.0018830534519405607
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7933333333333333,0.05657245211315622,-0.0006373642384657333,0.0015694038817345272
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.7966666666666667,0.05607902996788634,-0.0006622845542331523,0.0016448475669930602
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8,0.05546496790653993,-0.0007721634564015897,0.0015347632614505476
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8033333333333333,0.05474778397168092,-0.001020044903470028,0.0016129488576931252
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8066666666666668,0.054224794362277645,-0.001068707443346836,0.0015974155940688673
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.81,0.053740992605070356,-0.000976431922537352,0.0016123875893516385
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8133333333333334,0.052707561828787476,-0.0015885053499792553,0.0016814078426644387
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8166666666666668,0.052145999084036866,-0.0017388958963834404,0.0018852094334100193
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8200000000000001,0.051536865858461144,-0.0015163517456987174,0.0018661935986682848
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8233333333333334,0.05105694666952142,-0.0014473418006069468,0.0018259999079605896
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8266666666666668,0.050431601848137976,-0.0012080226793051351,0.0017821653899735043
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8300000000000001,0.049881684032944754,-0.0005386001939896518,0.0014726010121246427
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8333333333333334,0.049351423280681574,-0.0005874084342481935,0.0015506239363081871
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8366666666666667,0.04859806610390577,-0.0008268621549502744,0.001479568632778829
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8400000000000001,0.04797413804528186,-0.0008842334147867859,0.0013876433432240853
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8433333333333334,0.047376204322382175,-0.0005995182174043968,0.0014126997245870907
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8466666666666667,0.046577360874051364,-0.001060018843916038,0.0013002326185073663
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8500000000000001,0.046050632315328216,-0.0009824750193226468,0.0013360117865131545
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8533333333333334,0.04526480199252042,-0.0008991468895743747,0.001404932405455747
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8566666666666667,0.044325656014692266,-0.001254789726596703,0.001623366849451713
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8600000000000001,0.0437727326087672,-0.00013118168560077897,0.0017394722416156133
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8633333333333334,0.042712109978384497,-6.711375869519107e-05,0.001276012886961532
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8666666666666667,0.041969813542016385,-8.830136944482625e-05,0.0012208583220917374
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8700000000000001,0.040954133235096835,-0.00047075099527237036,0.0012294556282675985
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8733333333333334,0.04017727111769046,-0.0006745913798103679,0.001342140146385872
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8766666666666667,0.03923788091827004,-0.0011948326318900672,0.0013524307930150104
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.88,0.03871666607827862,-0.0009310053187577447,0.0013540350063384967
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8833333333333334,0.03806217007956668,-0.001026698554235927,0.0013293662143986661
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8866666666666667,0.037427764082062005,-0.0010002560163850488,0.0012800565397136524
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.89,0.036662748099502054,-0.0009651241852920321,0.001230148682771078
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8933333333333334,0.036089740242860484,-0.00076346514361201,0.0012709620941416745
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.8966666666666667,0.03489085558213603,-0.001184845217627804,0.0012794914249644196
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9,0.033930380456044525,-0.0013656288636619087,0.0012297344715458168
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9033333333333334,0.03293012635049399,-0.0016513029083183816,0.0013370792045687104
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9066666666666667,0.0320889437588537,-0.0016043873853997118,0.001194947757759781
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.91,0.03137090296698778,-0.0016663919173753948,0.0012378295049160928
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9133333333333334,0.03073871994102155,-0.001482462530718497,0.0011318319437236288
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9166666666666667,0.02995213475147407,-0.0014406298696883536,0.001269573927442943
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.92,0.02926286076545339,-0.0014667601924355136,0.0012576750598570147
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9233333333333333,0.028434970211495374,-0.0014731210548152589,0.0012874600560628506
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9266666666666667,0.027766289933715885,-0.0013874631065819109,0.0013266326765218437
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.93,0.026759236477017733,-0.0016099704852655286,0.001457400224746081
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9333333333333333,0.0257474914680277,-0.0017970789154896157,0.0013683768017507428
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9366666666666668,0.0246970526005169,-0.0020173848307863517,0.001443656655815826
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9400000000000001,0.023650062669185203,-0.001712025276934797,0.0014143392280636887
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9433333333333334,0.022864404411590104,-0.001421851171916737,0.0014975095887183704
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9466666666666668,0.02179057300088605,-0.0011898267830604574,0.0013731298894073078
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9500000000000001,0.02104039348005476,-0.0006617503195001227,0.0014220815766475498
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9533333333333334,0.019728651385072394,-0.0012006363637625111,0.0014548515367797071
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9566666666666668,0.01863671982408881,-0.0009544582235376883,0.0013909763567530613
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9600000000000001,0.017449282356689313,-0.0005532451637880431,0.0016752531574648183
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9633333333333334,0.01595263121343572,-0.0007722703033481946,0.0013101902210745538
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9666666666666667,0.014618370777550512,-0.0009390736508491557,0.0015422400201472336
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9700000000000001,0.013061161005157073,-0.0012348107352041261,0.001452827224524209
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9733333333333334,0.011384468594004868,-0.0012123603878127875,0.0012294649557583002
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9766666666666667,0.009898320366840336,-0.0009965822853313018,0.001196461956914178
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9800000000000001,0.008715556412637791,-0.0008374108625878882,0.0011626889816821798
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9833333333333334,0.007350945893425857,-0.0005880467406824603,0.0007019886664071109
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9866666666666667,0.005921011648780048,-0.0002181731392326722,0.00035019630394239143
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9900000000000001,0.00456777824794755,-7.745016006227535e-05,0.000243410164687587
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9933333333333334,0.0031044758406390633,-0.00015545536919782822,0.00032919569913776576
+s1_shslope_hetero_famspline_bb,Model 2,equal_family,0.9966666666666667,0.0016350137762398927,1.9161681632177932e-05,6.31469538885706e-05
