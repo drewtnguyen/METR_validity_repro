@@ -433,7 +433,7 @@ Our main numerical measure of model quality is based on crossing the above scori
 % Baseline throughout: linear_shslope_sqrtfamily -- the shared-slope
 % logistic fit with METR's sqrt-family diversity weighting.
 
-The results of the scoring rule metrics are displayed in Figure \ref{fig:scoregrid}, showing that the point estimates for our methods dominate the baseline on all metrics. Our chosen baseline itself dominates the original logistic regression specification on all metrics except one, namely equal-task $\tilde S_{q = 0.5}$, so we do not report its results.
+The results of the scoring rule metrics are displayed in Figure \ref{fig:scoregrid}, showing that the point estimates for our methods dominate the baseline on all 12 metrics, except for Method 2 on equal-task $\tilde S_{q = 0.5}$. Our chosen baseline itself dominates the original logistic regression specification on 12 except equal-task $\tilde S_{q = 0.5}$, so we do not report its results. (Equal-task upweights large families, so we do not consider it as important as the others.)
 
 % These results are with reference to a specific split of the 79 families into folds with the random seed 42. We also tried 50 other random fold splits and found the improvement to be relatively stable, with Model 1 and 2 beating the baseline in Brier score in about 70\% of splits. 
 
